@@ -10,7 +10,8 @@ This is the beginner level project of codeclause internship.
 8.  nltk.download('punkt_tab')
 9.python train.py
 
-"**This will dump data.pth file. And then run the following command to test it in the console.**"
+"**This will dump data.pth file. And then run the following command to test it in the console
+
 10. python chat.py
 11. pip install -r requirements.txt
 12.waitress-serve --port=8000 app:app
