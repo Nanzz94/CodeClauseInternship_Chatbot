@@ -1,7 +1,7 @@
 This is the beginner level project of codeclause internship.
 "**commands to run this repo**"
 1. clone this repo
-2. cd chatbot-deployment
+2. cd ENTRY_LEVEL
 3. python3 -m venv venv
 4. venv/Scripts/activate
 5. pip install Flask torch torchvision nltk
