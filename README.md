@@ -6,11 +6,11 @@ This is the beginner level project of codeclause internship.
 4. venv/Scripts/activate
 5. pip install Flask torch torchvision nltk
 6.  python
->>> import nltk
->>> nltk.download('punkt_tab')
-7.python train.py
-"** This will dump data.pth file. And then run the following command to test it in the console.**"
-8. python chat.py
-9. pip install -r requirements.txt
-10.waitress-serve --port=8000 app:app
+7.  import nltk
+8.  nltk.download('punkt_tab')
+9.python train.py
+"**This will dump data.pth file. And then run the following command to test it in the console.**"
+10. python chat.py
+11. pip install -r requirements.txt
+12.waitress-serve --port=8000 app:app
 "**Then type http://localhost:8000 in your browser to run the flask application**"
