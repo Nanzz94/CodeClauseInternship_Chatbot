@@ -8,7 +8,7 @@ This is the beginner level project of codeclause internship.
 6.  python
 7.  import nltk
 8.  nltk.download('punkt_tab')
-9.python train.py
+9.  python train.py
 
 "**This will dump data.pth file. And then run the following command to test it in the console**"
 
